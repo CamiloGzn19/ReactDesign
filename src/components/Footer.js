@@ -10,7 +10,6 @@ import {
   Data,
   Text,
   List,
-  div,
   Icons,
   Media,
 } from "../Styles/Footer_Styles";

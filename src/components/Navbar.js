@@ -10,13 +10,13 @@ const Navbar = () => {
       />
       <Group>
         <List>
-          <a>Features</a>
+          <a href="#">Features</a>
         </List>
         <List>
-          <a>Team</a>
+          <a href="#">Team</a>
         </List>
         <List>
-        <a>Sign in</a>          
+        <a href="#">Sign in</a>          
         </List>
       </Group>
     </Nav>
