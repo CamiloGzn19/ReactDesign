@@ -63,3 +63,8 @@ export const List = styled.li`
   }
   }
 `;
+
+export const Ancor = styled.a`
+  color:white;
+  text-decoration:none;
+`;

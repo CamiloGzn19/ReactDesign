@@ -1,5 +1,5 @@
 import React from "react";
-import { Logo, Nav, Group, List } from "../Styles/Navbar_Styles";
+import { Logo, Nav, Group, List, Ancor } from "../Styles/Navbar_Styles";
 
 const Navbar = () => {
   return (
@@ -10,13 +10,13 @@ const Navbar = () => {
       />
       <Group>
         <List>
-          <a href="#">Features</a>
+          <Ancor href="#">Features</Ancor>
         </List>
         <List>
-          <a href="#">Team</a>
+          <Ancor href="#">Team</Ancor>
         </List>
         <List>
-        <a href="#">Sign in</a>          
+        <Ancor href="#">Sign in</Ancor>          
         </List>
       </Group>
     </Nav>
